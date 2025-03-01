@@ -1,0 +1,86 @@
+Cloning repository...
+Java is installed: openjdk version "17.0.13" 2024-10-15 LTS
+Maven is installed: Apache Maven 3.9.9 (8e8579a9e76f7d015ee5ec7bfcdc97d260186937)
+Starting the build process...
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< com.mycompany.app:my-app >----------------------
+[INFO] Building my-app 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-enforcer-plugin/3.4.1/maven-enforcer-plugin-3.4.1.pom
+Progress (1): 1.4/7.7 kBProgress (1): 2.8/7.7 kBProgress (1): 4.1/7.7 kBProgress (1): 5.5/7.7 kBProgress (1): 6.9/7.7 kBProgress (1): 7.7 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-enforcer-plugin/3.4.1/maven-enforcer-plugin-3.4.1.pom (7.7 kB at 15 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer/3.4.1/enforcer-3.4.1.pom
+Progress (1): 1.4/9.1 kBProgress (1): 2.8/9.1 kBProgress (1): 4.1/9.1 kBProgress (1): 5.5/9.1 kBProgress (1): 6.9/9.1 kBProgress (1): 8.3/9.1 kBProgress (1): 9.1 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer/3.4.1/enforcer-3.4.1.pom (9.1 kB at 197 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-enforcer-plugin/3.4.1/maven-enforcer-plugin-3.4.1.jar
+Progress (1): 1.4/39 kBProgress (1): 2.8/39 kBProgress (1): 4.1/39 kBProgress (1): 5.5/39 kBProgress (1): 6.9/39 kBProgress (1): 8.3/39 kBProgress (1): 9.7/39 kBProgress (1): 11/39 kB Progress (1): 12/39 kBProgress (1): 14/39 kBProgress (1): 15/39 kBProgress (1): 16/39 kBProgress (1): 18/39 kBProgress (1): 19/39 kBProgress (1): 21/39 kBProgress (1): 22/39 kBProgress (1): 23/39 kBProgress (1): 25/39 kBProgress (1): 26/39 kBProgress (1): 27/39 kBProgress (1): 29/39 kBProgress (1): 30/39 kBProgress (1): 32/39 kBProgress (1): 33/39 kBProgress (1): 34/39 kBProgress (1): 36/39 kBProgress (1): 37/39 kBProgress (1): 38/39 kBProgress (1): 39 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-enforcer-plugin/3.4.1/maven-enforcer-plugin-3.4.1.jar (39 kB at 781 kB/s)
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ my-app ---
+[INFO] 
+[INFO] --- enforcer:3.4.1:enforce (enforce-maven) @ my-app ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer-api/3.4.1/enforcer-api-3.4.1.pom
+Progress (1): 1.4/3.8 kBProgress (1): 2.8/3.8 kBProgress (1): 3.8 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer-api/3.4.1/enforcer-api-3.4.1.pom (3.8 kB at 234 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer-rules/3.4.1/enforcer-rules-3.4.1.pom
+Progress (1): 4.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer-rules/3.4.1/enforcer-rules-3.4.1.pom (4.3 kB at 267 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.13.0/commons-lang3-3.13.0.pom
+Progress (1): 16/31 kBProgress (1): 31 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.13.0/commons-lang3-3.13.0.pom (31 kB at 968 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.pom
+Progress (1): 16 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.pom (16 kB at 410 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.pom
+Progress (1): 5.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.pom (5.0 kB at 156 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer-api/3.4.1/enforcer-api-3.4.1.jar
+Progress (1): 14 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer-api/3.4.1/enforcer-api-3.4.1.jar (14 kB at 181 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer-rules/3.4.1/enforcer-rules-3.4.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.13.0/commons-lang3-3.13.0.jar
+Downloading from central: https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar
+Progress (1): 16/361 kBProgress (1): 33/361 kBProgress (1): 49/361 kBProgress (1): 63/361 kBProgress (1): 79/361 kBProgress (1): 95/361 kBProgress (1): 112/361 kBProgress (1): 128/361 kBProgress (1): 130/361 kBProgress (1): 146/361 kBProgress (2): 146/361 kB | 1.4/389 kBProgress (2): 146/361 kB | 2.8/389 kBProgress (2): 146/361 kB | 4.1/389 kBProgress (2): 146/361 kB | 5.5/389 kBProgress (2): 146/361 kB | 6.9/389 kBProgress (2): 146/361 kB | 8.3/389 kBProgress (2): 146/361 kB | 9.7/389 kBProgress (2): 146/361 kB | 11/389 kB Progress (2): 146/361 kB | 12/389 kBProgress (2): 146/361 kB | 14/389 kBProgress (2): 146/361 kB | 15/389 kBProgress (2): 146/361 kB | 17/389 kBProgress (2): 146/361 kB | 18/389 kBProgress (2): 146/361 kB | 19/389 kBProgress (3): 146/361 kB | 19/389 kB | 1.4/145 kBProgress (3): 146/361 kB | 19/389 kB | 2.8/145 kBProgress (3): 146/361 kB | 19/389 kB | 4.1/145 kBProgress (3): 146/361 kB | 19/389 kB | 5.5/145 kBProgress (3): 146/361 kB | 19/389 kB | 6.9/145 kBProgress (3): 146/361 kB | 19/389 kB | 8.3/145 kBProgress (3): 146/361 kB | 19/389 kB | 9.7/145 kBProgress (3): 146/361 kB | 19/389 kB | 11/145 kB Progress (3): 146/361 kB | 21/389 kB | 11/145 kBProgress (3): 146/361 kB | 22/389 kB | 11/145 kBProgress (3): 146/361 kB | 23/389 kB | 11/145 kBProgress (3): 146/361 kB | 23/389 kB | 12/145 kBProgress (3): 146/361 kB | 23/389 kB | 14/145 kBProgress (3): 146/361 kB | 25/389 kB | 14/145 kBProgress (3): 146/361 kB | 25/389 kB | 15/145 kBProgress (4): 146/361 kB | 25/389 kB | 15/145 kB | 16/632 kBProgress (4): 146/361 kB | 25/389 kB | 17/145 kB | 16/632 kBProgress (4): 146/361 kB | 26/389 kB | 17/145 kB | 16/632 kBProgress (4): 146/361 kB | 26/389 kB | 18/145 kB | 16/632 kBProgress (4): 146/361 kB | 28/389 kB | 18/145 kB | 16/632 kBProgress (4): 146/361 kB | 28/389 kB | 19/145 kB | 16/632 kBProgress (4): 146/361 kB | 28/389 kB | 21/145 kB | 16/632 kBProgress (4): 146/361 kB | 29/389 kB | 21/145 kB | 16/632 kBProgress (4): 146/361 kB | 29/389 kB | 22/145 kB | 16/632 kBProgress (4): 146/361 kB | 30/389 kB | 22/145 kB | 16/632 kBProgress (4): 146/361 kB | 32/389 kB | 22/145 kB | 16/632 kBProgress (4): 146/361 kB | 33/389 kB | 22/145 kB | 16/632 kBProgress (4): 146/361 kB | 34/389 kB | 22/145 kB | 16/632 kBProgress (4): 146/361 kB | 34/389 kB | 23/145 kB | 16/632 kBProgress (4): 146/361 kB | 36/389 kB | 23/145 kB | 16/632 kBProgress (4): 146/361 kB | 36/389 kB | 23/145 kB | 33/632 kBProgress (4): 146/361 kB | 37/389 kB | 23/145 kB | 33/632 kBProgress (4): 146/361 kB | 37/389 kB | 25/145 kB | 33/632 kBProgress (4): 146/361 kB | 38/389 kB | 25/145 kB | 33/632 kBProgress (4): 146/361 kB | 38/389 kB | 26/145 kB | 33/632 kBProgress (4): 146/361 kB | 38/389 kB | 28/145 kB | 33/632 kBProgress (4): 146/361 kB | 40/389 kB | 28/145 kB | 33/632 kBProgress (4): 146/361 kB | 40/389 kB | 29/145 kB | 33/632 kBProgress (4): 146/361 kB | 41/389 kB | 29/145 kB | 33/632 kBProgress (4): 146/361 kB | 41/389 kB | 30/145 kB | 33/632 kBProgress (4): 146/361 kB | 41/389 kB | 32/145 kB | 33/632 kBProgress (4): 146/361 kB | 41/389 kB | 33/145 kB | 33/632 kBProgress (4): 162/361 kB | 41/389 kB | 33/145 kB | 33/632 kBProgress (4): 179/361 kB | 41/389 kB | 33/145 kB | 33/632 kBProgress (4): 179/361 kB | 42/389 kB | 33/145 kB | 33/632 kBProgress (4): 179/361 kB | 44/389 kB | 33/145 kB | 33/632 kBProgress (4): 179/361 kB | 45/389 kB | 33/145 kB | 33/632 kBProgress (4): 195/361 kB | 45/389 kB | 33/145 kB | 33/632 kBProgress (4): 195/361 kB | 47/389 kB | 33/145 kB | 33/632 kBProgress (4): 195/361 kB | 48/389 kB | 33/145 kB | 33/632 kBProgress (4): 195/361 kB | 49/389 kB | 33/145 kB | 33/632 kBProgress (4): 195/361 kB | 51/389 kB | 33/145 kB | 33/632 kBProgress (4): 211/361 kB | 51/389 kB | 33/145 kB | 33/632 kBProgress (4): 211/361 kB | 52/389 kB | 33/145 kB | 33/632 kBProgress (4): 211/361 kB | 53/389 kB | 33/145 kB | 33/632 kBProgress (4): 211/361 kB | 55/389 kB | 33/145 kB | 33/632 kBProgress (4): 211/361 kB | 56/389 kB | 33/145 kB | 33/632 kBProgress (4): 211/361 kB | 58/389 kB | 33/145 kB | 33/632 kBProgress (4): 211/361 kB | 59/389 kB | 33/145 kB | 33/632 kBProgress (4): 211/361 kB | 60/389 kB | 33/145 kB | 33/632 kBProgress (4): 211/361 kB | 60/389 kB | 33/145 kB | 49/632 kBProgress (4): 211/361 kB | 62/389 kB | 33/145 kB | 49/632 kBProgress (4): 211/361 kB | 63/389 kB | 33/145 kB | 49/632 kBProgress (4): 211/361 kB | 64/389 kB | 33/145 kB | 49/632 kBProgress (4): 211/361 kB | 64/389 kB | 49/145 kB | 49/632 kBProgress (4): 211/361 kB | 80/389 kB | 49/145 kB | 49/632 kBProgress (4): 211/361 kB | 80/389 kB | 49/145 kB | 66/632 kBProgress (4): 211/361 kB | 80/389 kB | 49/145 kB | 82/632 kBProgress (4): 211/361 kB | 80/389 kB | 66/145 kB | 82/632 kBProgress (4): 211/361 kB | 80/389 kB | 82/145 kB | 82/632 kBProgress (4): 211/361 kB | 80/389 kB | 96/145 kB | 82/632 kBProgress (4): 211/361 kB | 96/389 kB | 96/145 kB | 82/632 kBProgress (4): 211/361 kB | 96/389 kB | 96/145 kB | 98/632 kBProgress (4): 228/361 kB | 96/389 kB | 96/145 kB | 98/632 kBProgress (4): 228/361 kB | 113/389 kB | 96/145 kB | 98/632 kBProgress (4): 228/361 kB | 113/389 kB | 112/145 kB | 98/632 kBProgress (4): 244/361 kB | 113/389 kB | 112/145 kB | 98/632 kBProgress (4): 244/361 kB | 113/389 kB | 112/145 kB | 115/632 kBProgress (4): 261/361 kB | 113/389 kB | 112/145 kB | 115/632 kBProgress (4): 261/361 kB | 126/389 kB | 112/145 kB | 115/632 kBProgress (4): 261/361 kB | 129/389 kB | 112/145 kB | 115/632 kBProgress (4): 261/361 kB | 129/389 kB | 129/145 kB | 115/632 kBProgress (4): 261/361 kB | 129/389 kB | 129/145 kB | 131/632 kBProgress (4): 277/361 kB | 129/389 kB | 129/145 kB | 131/632 kBProgress (4): 277/361 kB | 129/389 kB | 145 kB | 131/632 kB    Progress (4): 293/361 kB | 129/389 kB | 145 kB | 131/632 kB                                                           Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer-rules/3.4.1/enforcer-rules-3.4.1.jar (145 kB at 283 kB/s)
+Progress (3): 293/361 kB | 145/389 kB | 131/632 kBProgress (3): 310/361 kB | 145/389 kB | 131/632 kBProgress (3): 310/361 kB | 145/389 kB | 147/632 kBProgress (3): 326/361 kB | 145/389 kB | 147/632 kBProgress (3): 343/361 kB | 145/389 kB | 147/632 kBProgress (3): 343/361 kB | 162/389 kB | 147/632 kBProgress (3): 359/361 kB | 162/389 kB | 147/632 kBProgress (3): 361 kB | 162/389 kB | 147/632 kB    Progress (3): 361 kB | 162/389 kB | 164/632 kB                                              Downloaded from central: https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar (361 kB at 649 kB/s)
+Progress (2): 162/389 kB | 180/632 kBProgress (2): 178/389 kB | 180/632 kBProgress (2): 178/389 kB | 197/632 kBProgress (2): 195/389 kB | 197/632 kBProgress (2): 195/389 kB | 213/632 kBProgress (2): 211/389 kB | 213/632 kBProgress (2): 211/389 kB | 229/632 kBProgress (2): 227/389 kB | 229/632 kBProgress (2): 227/389 kB | 246/632 kBProgress (2): 244/389 kB | 246/632 kBProgress (2): 244/389 kB | 256/632 kBProgress (2): 260/389 kB | 256/632 kBProgress (2): 260/389 kB | 272/632 kBProgress (2): 277/389 kB | 272/632 kBProgress (2): 277/389 kB | 289/632 kBProgress (2): 293/389 kB | 289/632 kBProgress (2): 293/389 kB | 305/632 kBProgress (2): 309/389 kB | 305/632 kBProgress (2): 309/389 kB | 321/632 kBProgress (2): 326/389 kB | 321/632 kBProgress (2): 326/389 kB | 338/632 kBProgress (2): 326/389 kB | 354/632 kBProgress (2): 342/389 kB | 354/632 kBProgress (2): 342/389 kB | 370/632 kBProgress (2): 358/389 kB | 370/632 kBProgress (2): 358/389 kB | 387/632 kBProgress (2): 375/389 kB | 387/632 kBProgress (2): 375/389 kB | 403/632 kBProgress (2): 389 kB | 403/632 kB    Progress (2): 389 kB | 420/632 kB                                 Downloaded from central: https://repo.maven.apache.org/maven2/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar (389 kB at 516 kB/s)
+Progress (1): 436/632 kBProgress (1): 452/632 kBProgress (1): 469/632 kBProgress (1): 485/632 kBProgress (1): 502/632 kBProgress (1): 518/632 kBProgress (1): 534/632 kBProgress (1): 551/632 kBProgress (1): 567/632 kBProgress (1): 583/632 kBProgress (1): 600/632 kBProgress (1): 616/632 kBProgress (1): 632 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.13.0/commons-lang3-3.13.0.jar (632 kB at 774 kB/s)
+[INFO] Rule 0: org.apache.maven.enforcer.rules.version.RequireMavenVersion passed
+[INFO] Rule 1: org.apache.maven.enforcer.rules.version.RequireJavaVersion passed
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ my-app ---
+[INFO] skip non existing resourceDirectory C:\chibzdevops\simple-java-maven-app\simple-java-maven-app\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ my-app ---
+[INFO] Changes detected - recompiling the module! :source
+[INFO] Compiling 1 source file with javac [debug target 1.8] to target\classes
+[WARNING] bootstrap class path not set in conjunction with -source 8
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ my-app ---
+[INFO] skip non existing resourceDirectory C:\chibzdevops\simple-java-maven-app\simple-java-maven-app\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.11.0:testCompile (default-testCompile) @ my-app ---
+[INFO] Changes detected - recompiling the module! :dependency
+[INFO] Compiling 1 source file with javac [debug target 1.8] to target\test-classes
+[WARNING] bootstrap class path not set in conjunction with -source 8
+[INFO] 
+[INFO] --- surefire:3.2.5:test (default-test) @ my-app ---
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.mycompany.app.AppTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.085 s -- in com.mycompany.app.AppTest
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] 
+[INFO] --- jar:3.3.0:jar (default-jar) @ my-app ---
+[INFO] Building jar: C:\chibzdevops\simple-java-maven-app\simple-java-maven-app\target\my-app-1.0-SNAPSHOT.jar
+[INFO] 
+[INFO] --- install:3.1.2:install (default-install) @ my-app ---
+[INFO] Installing C:\chibzdevops\simple-java-maven-app\simple-java-maven-app\pom.xml to C:\Users\peter\.m2\repository\com\mycompany\app\my-app\1.0-SNAPSHOT\my-app-1.0-SNAPSHOT.pom
+[INFO] Installing C:\chibzdevops\simple-java-maven-app\simple-java-maven-app\target\my-app-1.0-SNAPSHOT.jar to C:\Users\peter\.m2\repository\com\mycompany\app\my-app\1.0-SNAPSHOT\my-app-1.0-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  6.130 s
+[INFO] Finished at: 2025-03-01T13:56:43-07:00
+[INFO] ------------------------------------------------------------------------
+Build successful!
