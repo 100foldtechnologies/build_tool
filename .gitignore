@@ -19,7 +19,6 @@ target/
 .vscode/
 
 # Logs and OS-specific files
-*.log
 *.out
 *.pid
 hs_err_pid*
@@ -32,9 +31,6 @@ mvnw.cmd
 
 # === Node.js (React.js) ===
 node_modules/
-npm-debug.log
-yarn-debug.log
-yarn-error.log
 dist/
 build/
 
