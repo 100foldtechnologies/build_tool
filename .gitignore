@@ -52,10 +52,6 @@ yarn.lock
 # Coverage reports
 coverage/
 
-# Logs
-logs/
-logs/**/*.log
-npm-debug.log*
 
 # Editor backups
 *.swp
